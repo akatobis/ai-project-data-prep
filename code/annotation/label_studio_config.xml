@@ -1,0 +1,4 @@
+<View>
+  <Image name="image" value="$image" />
+  <Text name="text" value="$text" />
+</View>
